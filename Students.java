@@ -6,7 +6,7 @@
  * @author (2025320031 김단이)
  * @version (2026.05.05)
  */
-public class TimesTables
+public class Students
 {
     // 인스턴스 변수 - 다음의 예제를 사용자에 맞게 변경하세요.
     private int x;
@@ -14,7 +14,7 @@ public class TimesTables
     /**
      * TimesTables 클래스의 객체 생성자
      */
-    public TimesTables()
+    public Students()
     {
         // 인스턴스 변수 초기화
         x = 0;
